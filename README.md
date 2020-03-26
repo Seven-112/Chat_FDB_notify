@@ -1,5 +1,5 @@
 
-# Messenger #
+# Messenger app(no our fb***) #
 
 If you want a APK then create an issue, i'll send the link..
 <br><b>ChatApp is a real time one to one chat application with Push Notifications made using Firebase...</b>
